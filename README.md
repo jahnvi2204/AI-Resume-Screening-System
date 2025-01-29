@@ -1,4 +1,7 @@
 Resume Category Prediction
+
+
+
 This Streamlit application predicts the job category of uploaded resumes. Users can upload resumes in PDF, DOCX, or TXT formats, and the app will extract the text and predict the job category using a pre-trained Support Vector Classifier (SVC) model.
 
 ![image](https://github.com/user-attachments/assets/291f00a6-298f-432d-ad7c-650793be2087)
