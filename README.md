@@ -13,8 +13,7 @@ Predict the job category of the resume.
 Display the predicted category to the user.
 
 Installation"
-Clone the repository:
-git clone https://github.com/yourusername/resume-category-prediction.git
+Clone the repository
 cd resume-category-prediction
 Install the required packages:
 
